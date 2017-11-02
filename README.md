@@ -1,2 +1,5 @@
 # Internet-Of-Games
 My Personal Research Initiative to Bridge the Gap Between the Internet of Information and the Internet of Things
+
+In trying to understand the rift between the Internet of Information (common browser-based ecosystem with 4 billion people) and the Internet of Things (sensors-based-ecosystem with 20 billion devices but relatively much fewer developers) I am investigating the possibility of a bridge between the two ecosystems that have much more in common. My hypothesis is that there exists a third dimension, the Internet of Games - an ecosystem with avenues in both worlds (online games to physical games) - that provides a vital link for societies to transition between the two, as yet distinctly approached worlds of communication. In order to further and publish this research, I have registered the domain https://www.internetofgames.org as a repository. I am in the process of exploring a range of academic tools to manage this, from registering a journal to a massive collaboration of Internet engineers, social scientists, and entrepreneurs.
+
